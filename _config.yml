@@ -12,7 +12,7 @@ github_repo: "https://github.com/halfroad/halfroad.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "致力于iOS、OpenWRT、Linux、网络、AI技术的探索"
-sidebar-avatar: /img/Apple_Cupertino_Park.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Apple_Cupertino_Park.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
